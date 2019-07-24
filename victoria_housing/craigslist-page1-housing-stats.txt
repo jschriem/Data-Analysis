@@ -1,0 +1,5 @@
+average 1 bedroom price in Victoria: 1502.8333333333333
+average 2 bedroom price in Victoria: 2052.616666666667
+average 3 bedroom price in Victoria: 2749.9827586206898
+average 4 bedroom price in Victoria: 3548.9666666666667
+average 5 bedroom price in Victoria: 4322.375
